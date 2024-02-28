@@ -9,7 +9,7 @@ def limpar_pasta_temp():
 
 def limpar_pasta():
 
-    os.system("start cmd && color a2")
+    os.system("")
     return
 
 
